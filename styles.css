@@ -55,6 +55,9 @@ h3, h4, h5 {
 .section-1 .info-generales {
     margin-bottom: 18px;
 }
+.section-1 .datos-generales p i {
+    margin-right: 6px;
+}
 
 .section-2 {
     width: auto;
