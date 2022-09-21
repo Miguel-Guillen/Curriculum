@@ -23,13 +23,19 @@
 p, h3, h4, h5, li {
     margin: 5px 0;
 }
+p, li {
+    font-family: 'Lato', sans-serif;
+}
+h3, h4, h5 {
+    font-family: 'Poppins', sans-serif;
+}
 .section-1 a, h3 {
     color: #92e9e7;
 }
 
 .section-1 {
     width: auto;
-    height: 70vh;
+    height: 73vh;
     background-color: #383838;
     padding: 30px 40px;
     color: #fff;
@@ -52,7 +58,7 @@ p, h3, h4, h5, li {
 
 .section-2 {
     width: auto;
-    height: 70vh;
+    height: 73vh;
     padding: 30px 40px;
 }
 .section-2 .informacion, .section-2 .conocimientos {
